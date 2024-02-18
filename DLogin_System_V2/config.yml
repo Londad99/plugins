@@ -1,0 +1,38 @@
+# RegisterMsg
+Registermsg: '&cRegister with /register "password" "password"!'
+
+# LoginMsg
+Loginmsg: '&cLog in with /login "password"!'
+
+# Registered with success
+Registeredwithsuccess: '&2Registered successfully!'
+
+# Passwords do not match
+Passwordsdonotmatch: '&cThe two passwords do not match!'
+
+# Already registered
+alreadyregistered: '&cYou are already registered!'
+
+# LoginTime/RegisterTime (in seconds!)
+Login_Register_Time: 20
+
+# Kick reason when login time ends
+reason_on_kick: '&cLogin/register time expired!'
+
+# Already logged
+alreadylogged: '&cYou are already logged in'
+
+# Spawn - DO NOT TOUCH
+spawncord: 0=0=0=0=0=0
+
+# Wrong password
+wrongpassword: '&cWrong password!'
+
+# Logged in successfully
+Loggedinsuccessfully: '&2Logged in successfully'
+
+# Enable Getpassword command
+getpasswordcommand: false
+
+# Safer Mode (Recommended = true)
+safermode: true

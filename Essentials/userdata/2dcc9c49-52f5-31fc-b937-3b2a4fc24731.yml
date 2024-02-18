@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1708278326367
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1708272470333
+  login: 1708278274650
+  kits:
+    firework: 1708271941095
+money: '0'
+last-account-name: Londad99
+logoutlocation:
+  world: a8497ad1-c5ac-47f0-86ee-fa49bb72ba77
+  world-name: world
+  x: 306.15938651900814
+  y: 131.37429331309653
+  z: 132.53077025831084
+  yaw: 87.222900390625
+  pitch: 44.07048797607422
+lastlocation:
+  world: a8497ad1-c5ac-47f0-86ee-fa49bb72ba77
+  world-name: world
+  x: 144.5
+  y: 69.99442662744718
+  z: 51.964081677512205
+  yaw: 0.0
+  pitch: 0.0
+homes:
+  home:
+    world: a8497ad1-c5ac-47f0-86ee-fa49bb72ba77
+    world-name: world
+    x: 144.5
+    y: 69.99442662744718
+    z: 60.08352091629917
+    yaw: 0.0
+    pitch: 0.0
